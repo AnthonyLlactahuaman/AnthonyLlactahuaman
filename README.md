@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<p align="center">
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
-	<a href="https://github.com/AnthonyLlactahuaman"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="www.linkedin.com/in/anthonyllactahuaman"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
