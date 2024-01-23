@@ -3,7 +3,7 @@
 <h2> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me </h2>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- :school: I am a `Junior` at [faculty of systems engineering and computer science](https://sistemas.unmsm.pe/site/index.php) at [Universidad Nacional Mayor de San Marcos](http://unmsm.edu.pe).
+- :school: I am a `Junior` at [faculty of systems engineering and computer science](https://sistemas.unmsm.edu.pe/site/index.php) at [Universidad Nacional Mayor de San Marcos](http://unmsm.edu.pe).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Software Engineering`.
