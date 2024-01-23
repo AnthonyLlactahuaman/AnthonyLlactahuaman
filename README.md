@@ -1,23 +1,24 @@
 ### Hi there 👋
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<h2> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me </h2>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - :school: I am a `Junior` at [faculty of systems engineering and computer science](http://sistemas.unmsm.pe/) at [Universidad Nacional Mayor de San Marcos](http://unmsm.edu.pe).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I am currently working as a `developer` at [KPMG](http://kpmg.com/pe/es/home.html).
-<br>
+<br> </br>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,idea,vscode,py,cpp,git,github,figma,html,css,discord)](https://skillicons.dev)
-<br><br>
+<br> </br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+<h2> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats </h2>
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 ----	
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnthonyLlactahuaman&theme=tokyonight_duo" alt="AnthonyLlactahuaman" /></p>
@@ -71,7 +72,7 @@
 </details>
 
 <br></br>
-### 🤝🏻 &nbsp;Connect with Me
+<h2>🤝🏻 &nbsp;Connect with Me</h2> 
 
 <p align="center">
 <a href="https://linkedin.com/in/anthonyllactahuaman"><img src="https://img.shields.io/badge/-Anthony%20Llactahuaman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
