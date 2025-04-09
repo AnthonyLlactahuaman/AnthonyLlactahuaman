@@ -14,7 +14,7 @@
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,idea,vscode,py,cpp,git,github,figma,html,css,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aiscript,azure,idea,vscode,py,notion,cpp,git,github,figma,html,css,discord)](https://skillicons.dev)
 <br> </br>
 
 
@@ -44,8 +44,18 @@
 ----
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/AnthonyLlactahuaman/Punto-de-Venta">
+      		<span style="
+	        font-size: 28px;
+	        color: #00f;
+	        font-family: 'Orbitron', sans-serif;
+	        font-weight: bold;
+	        text-shadow: 0 0 5px #00f, 0 0 10px #00f;
+	        display: inline-block;
+	        margin-bottom: 10px;
+	      ">
+	        Proyecto Punto de Venta
+	      </span>
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
