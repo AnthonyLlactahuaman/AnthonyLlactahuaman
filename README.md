@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 - :school: I am a `Junior` at [faculty of systems engineering and computer science](https://sistemas.unmsm.edu.pe/site/index.php) at [Universidad Nacional Mayor de San Marcos](http://unmsm.edu.pe).
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Machine Learning`, `AI`, `RPA`, `Web Scraping`.
 - :student: I’m currently learning `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I am currently working as a `developer` at [KPMG](http://kpmg.com/pe/es/home.html).
@@ -33,11 +33,6 @@
 <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-----
-[![AnthonyLlactahuaman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnthonyLlactahuaman&theme=github	)](https://github.com/AnthonyLlactahuaman/github-readme-activity-graph)
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
