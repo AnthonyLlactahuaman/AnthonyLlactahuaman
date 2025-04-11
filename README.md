@@ -57,6 +57,19 @@
 	        Proyecto Punto de Venta
 	      </span>
     	</a>
+	<a href="https://github.com/AnthonyLlactahuaman/RAG_LLaMA2_LangChain">
+      		<span style="
+	        font-size: 28px;
+	        color: #00f;
+	        font-family: 'Orbitron', sans-serif;
+	        font-weight: bold;
+	        text-shadow: 0 0 5px #00f, 0 0 10px #00f;
+	        display: inline-block;
+	        margin-bottom: 10px;
+	      ">
+	        Lectura de PDFs con LangChaing
+	      </span>
+    	</a>
   </p>
 </div>
 </details>
