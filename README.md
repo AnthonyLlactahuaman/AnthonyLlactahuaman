@@ -57,6 +57,7 @@
 	        Proyecto Punto de Venta
 	      </span>
     	</a>
+	...
 	<a href="https://github.com/AnthonyLlactahuaman/RAG_LLaMA2_LangChain">
       		<span style="
 	        font-size: 28px;
